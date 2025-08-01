@@ -1,5 +1,14 @@
-## Hi there 👋
+Aspiring Machine Learning Engineer looking to apply Machine Learning in all aspects of life.
 
+- Computer Engineering at San Jose State University
+- Interests: ML, AI, RL
+- Currently Learning: AWS
+- Reach me: gohjeriel88@gmail.com , http://www.linkedin.com/in/jerielgoh
+
+# Technical Skills
+- Languages: C++, Python, Assembly
+- Libraries: ScikitLearn, Pandas, Seaborn, Matplotlib, Numpy, PyTorch, Keras
+- Databases: AWS, Supabase
 <!--
 **JGZH0514/JGZH0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
