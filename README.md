@@ -1,14 +1,14 @@
 Aspiring Machine Learning Engineer looking to apply Machine Learning in all aspects of life.
 
-- Computer Engineering at San Jose State University
-- Interests: ML, AI, RL
-- Currently Learning: AWS
+- Computer Engineering, Minor in AI @ San Jose State University
+- Interests: Agentic AI
 - Reach me: gohjeriel88@gmail.com , http://www.linkedin.com/in/jerielgoh
 
 # Technical Skills
-- Languages: C++, Python, Assembly
-- Libraries: ScikitLearn, Pandas, Seaborn, Matplotlib, Numpy, PyTorch, Keras
-- Databases: AWS, Supabase
+- Languages: Python, SQL, JavaScript, HTML, CSS, C++, x86 Assembly
+- Frameworks & Libraries: LangGraph, LangChain, FastAPI, Pydantic, PyTorch, Keras, Pandas, NumPy
+- Tools & Cloud: RESTful APIs, Render, ChromaDB, Supabase, Docker, AWS S3, WebSockets, Git, Linux
+- Concepts & Methods: Agentic AI, RAG (Retrieval-Augmented Generation), LLM Tool Calling, Vector Embeddings, Prompt Engineering, Agile/Scrum (SDLC), Machine Learning, Deep Learning
 <!--
 **JGZH0514/JGZH0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
