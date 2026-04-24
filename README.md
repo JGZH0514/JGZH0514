@@ -1,4 +1,4 @@
-Aspiring Machine Learning Engineer looking to apply Machine Learning in all aspects of life.
+Aspiring AI Engineer looking to apply Agentic AI in all aspects of life.
 
 - Computer Engineering, Minor in AI @ San Jose State University
 - Interests: Agentic AI
